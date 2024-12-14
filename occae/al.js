@@ -1,0 +1,1 @@
+window.addEventListener(eventName, handlerFunction);
